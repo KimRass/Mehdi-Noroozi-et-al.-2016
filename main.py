@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
     fcn = ContextFreeNetwork()
 
-    img = load_image("examples/ori.jpg")
+    img = load_image("samples/ori.jpg")
     # 서로 다른 이미지로 구성된 Batch라고 가정해봅시다.
     image = T.ToTensor()(img).unsqueeze(0).repeat(BATCH_SIZE, 1, 1, 1)
     transform = T.Compose(
@@ -65,7 +65,7 @@ if __name__ == "__main__":
         # show_image(_tensor_to_array(image[i]))
         save_image(
             img=_tensor_to_array(image[i]),
-            path="examples/tranformed.jpg"
+            path="samples/tranformed.jpg"
         )
 
     perm_set = get_permutation_set(n_perms=20, n_tiles=9)
@@ -74,7 +74,7 @@ if __name__ == "__main__":
         show_image(_tensor_to_array(perm_tiles[i]))
         save_image(
             img=_tensor_to_array(perm_tiles[i]),
-            path=f"""examples/tile{i}.jpg"""
+            path=f"""samples/tile{i}.jpg"""
         )
 
     output = fcn(perm_tiles)
