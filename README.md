@@ -11,19 +11,19 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile1.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile2.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile3.jpg" width="300"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile1.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile2.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile3.jpg" width="200"></td>
         </tr>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile0.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile4.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile7.jpg" width="300"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile0.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile4.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile7.jpg" width="200"></td>
         </tr>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile8.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile6.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile5.jpg" width="300"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile8.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile6.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile5.jpg" width="200"></td>
         </tr>
     </tbody>
 </table>
@@ -35,19 +35,19 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile0.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile1.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile2.jpg" width="300"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile0.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile1.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile2.jpg" width="200"></td>
         </tr>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile3.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile4.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile5.jpg" width="300"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile3.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile4.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile5.jpg" width="200"></td>
         </tr>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile6.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile7.jpg" width="300"></td>
-            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile8.jpg" width="300"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile6.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile7.jpg" width="200"></td>
+            <td><img src="https://raw.githubusercontent.com/KimRass/Mehdi-Noroozi-et-al.-2016/refs/heads/main/samples/tile8.jpg" width="200"></td>
         </tr>
     </tbody>
 </table>
